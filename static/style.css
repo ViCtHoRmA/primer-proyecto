@@ -1,0 +1,25 @@
+/* selector por etiqueta */
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+header p {
+    color: rgb(127, 0, 118);
+}
+
+/* selector por clase */
+
+.content {
+    color: orange;
+}
+
+/* selector por id */
+
+#tittle2 {
+    color: rgb(0, 255, 221);
+}
